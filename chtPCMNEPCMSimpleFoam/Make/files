@@ -1,0 +1,10 @@
+regionProperties/regionProperties.C
+
+derivedFvPatchFields/solidWallHeatFluxTemperature/solidWallHeatFluxTemperatureFvPatchScalarField.C
+derivedFvPatchFields/solidWallMixedTemperatureCoupled/solidWallMixedTemperatureCoupledFvPatchScalarField.C
+
+fluid/incompressibleCourantNo.C
+
+chtPCMNEPCMSimpleFoam.C
+EXE = $(FOAM_USER_APPBIN)/chtPCMNEPCMSimpleFoam
+
