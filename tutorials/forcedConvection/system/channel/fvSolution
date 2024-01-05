@@ -71,7 +71,7 @@ solvers
 SIMPLE
 {
     nNonOrthogonalCorrectors 2;
-    convergence     1e-5;
+    convergence     1e-7;
 }
 
 relaxationFactors
