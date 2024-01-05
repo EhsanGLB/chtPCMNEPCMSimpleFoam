@@ -58,7 +58,7 @@ solvers
 SIMPLE
 {
     nNonOrthogonalCorrectors 3;
-    convergence     1e-5;
+    convergence     1e-7;
     pRefCell        0;
     pRefValue       0;
 }
